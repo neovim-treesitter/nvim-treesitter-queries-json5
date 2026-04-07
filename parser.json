@@ -1,8 +1,7 @@
 {
-  "url": "https://github.com/Joakker/tree-sitter-json5",
-  "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "parser_version": "aa630ef48903ab99e406a8acd2e2933077cc34e1",
   "location": null,
-  "lang": "json5"
+  "lang": "json5",
+  "url": "https://github.com/Joakker/tree-sitter-json5",
+  "semver": false
 }
